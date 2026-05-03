@@ -1,0 +1,13 @@
+# Claude Code
+.claude/
+
+# Configuración local
+*.local
+config.local.php
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
